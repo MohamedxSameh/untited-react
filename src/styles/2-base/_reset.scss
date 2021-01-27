@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+// lists
+li {
+  list-style: none;
+  text-transform: capitalize;
+}
+// links
+a {
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+}
+// button
+button {
+  border: none;
+  outline: none;
+  text-align: center;
+  font-weight: bold;
+}
